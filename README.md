@@ -2,7 +2,21 @@
 This project architecture is inspired by RVMS (Reactive Views, Managers, Services)  , Clean architecture and tips from the clean code book
 
 Documentation will be complete soon :) 
-## NOTE : This project architecture is designed for flutter projects
+
+
+## Digrams of Md Architecture
+<html>
+
+<body>
+
+
+![image](https://github.com/mdpe-ir/md_architecture/blob/main/md_architecture-Page-1.svg)
+
+</body>
+
+</html>
+
+
 -------
 
 ## Why [RVMS (Reactive Views, Managers, Services)](https://github.com/escamoteur/RVMS-2020) ?
