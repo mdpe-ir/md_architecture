@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T20:55:47.508Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5YRJXjvVNeKVM0FWAxQq" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-13T21:03:44.448Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ud38lltSK_46Zhd6rXmb" version="20.1.1" type="github" pages="2">
   <diagram id="tFQ0ERwNX2ZqUiJH5gMG" name="Page-1">
     <mxGraphModel dx="3330" dy="2391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,17 +16,20 @@
         <mxCell id="wdb4Ms79B8yGjbeq962m-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#330000;" parent="1" source="wdb4Ms79B8yGjbeq962m-2" target="wdb4Ms79B8yGjbeq962m-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wdb4Ms79B8yGjbeq962m-2" target="XSB1eu32Z3oZ6DMUe11a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wdb4Ms79B8yGjbeq962m-2" value="Project" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wdb4Ms79B8yGjbeq962m-11" value="&lt;div&gt;application.dart&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="210" y="150" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-3.75" y="150" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wdb4Ms79B8yGjbeq962m-12" value="main.dart" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="90" y="150" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-160" y="150" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wdb4Ms79B8yGjbeq962m-13" value="initializer.dart" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="340" y="150" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="150" y="150" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wdb4Ms79B8yGjbeq962m-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#330000;" parent="1" source="wdb4Ms79B8yGjbeq962m-15" target="wdb4Ms79B8yGjbeq962m-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -121,22 +124,54 @@
           <mxGeometry x="500" y="600" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XMhONWHRSR3KESh7TNqj-7" value="..._themes.dart" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="600" y="600" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="610" y="600" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XMhONWHRSR3KESh7TNqj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMhONWHRSR3KESh7TNqj-19" target="XMhONWHRSR3KESh7TNqj-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XMhONWHRSR3KESh7TNqj-19" value="core" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="970" y="340" width="50" height="45" as="geometry" />
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XMhONWHRSR3KESh7TNqj-19" target="XSB1eu32Z3oZ6DMUe11a-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XMhONWHRSR3KESh7TNqj-20" value="Add laters in utils :&lt;br&gt;&lt;br&gt;path_provider&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="-80" width="60" height="30" as="geometry" />
+        <mxCell id="XMhONWHRSR3KESh7TNqj-19" value="core" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;fontColor=#330000;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="320" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XMhONWHRSR3KESh7TNqj-21" target="XSB1eu32Z3oZ6DMUe11a-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="530.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.691;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XMhONWHRSR3KESh7TNqj-21" target="XSB1eu32Z3oZ6DMUe11a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XMhONWHRSR3KESh7TNqj-21" target="XSB1eu32Z3oZ6DMUe11a-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XMhONWHRSR3KESh7TNqj-21" value="utils&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="790" y="440" width="50" height="45" as="geometry" />
+          <mxGeometry x="800" y="425" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CAwOL5QMBkqDmIfasCQM-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1400/1*6DTVfk1ETWwVXDxYhOXodg.png;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-316" width="520" height="316" as="geometry" />
+          <mxGeometry x="800" y="-430" width="520" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-1" value="getit.dart" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;path_provider.dart&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-6" value="&lt;font color=&quot;#000000&quot;&gt;constants.dart&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="540" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-8" value="&lt;font color=&quot;#000000&quot;&gt;enums.dart&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="980" y="540" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSB1eu32Z3oZ6DMUe11a-13" target="XSB1eu32Z3oZ6DMUe11a-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-13" value="dialogs" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#2072B8;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="425" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="XSB1eu32Z3oZ6DMUe11a-15" value="&lt;font color=&quot;#000000&quot;&gt;alert_dialogs.dart&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="550" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
